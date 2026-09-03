@@ -754,5 +754,17 @@
     "sizeKB": 911,
     "sizeFormatted": "911 KB",
     "ayahCount": 6235
+  },
+  {
+    "id": "german_bubenheim",
+    "name": "ترجمة معاني القرآن الكريم - الترجمة الألمانية (فرانك بوبنهايم)",
+    "author": "الشيخ عبد الله الصامت [فرانك بوبنهايم] (Frank Bubenheim)",
+    "category": "translation",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 84,
+    "sizeKB": 990,
+    "sizeFormatted": "990 KB",
+    "ayahCount": 6236
   }
 ]
