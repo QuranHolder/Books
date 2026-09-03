@@ -192,6 +192,18 @@
     "ayahCount": 4596
   },
   {
+    "id": "mathoor",
+    "name": "موسوعة التفسير المأثور",
+    "author": "معهد الإمام الشاطبي",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 17,
+    "sizeKB": 46555,
+    "sizeFormatted": "45.5 MB",
+    "ayahCount": 6236
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
