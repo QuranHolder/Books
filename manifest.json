@@ -204,6 +204,18 @@
     "ayahCount": 6236
   },
   {
+    "id": "aljasas",
+    "name": "أحكام القرآن",
+    "author": "الجصاص",
+    "category": "sciences",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 17,
+    "sizeKB": 11680,
+    "sizeFormatted": "11.4 MB",
+    "ayahCount": 972
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
