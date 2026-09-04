@@ -216,6 +216,18 @@
     "ayahCount": 972
   },
   {
+    "id": "mawsoahqeraat",
+    "name": "القراءات — الموسوعة القرآنية",
+    "author": " إبراهيم الأبياري",
+    "category": "qeraat",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 18,
+    "sizeKB": 884,
+    "sizeFormatted": "884 KB",
+    "ayahCount": 2343
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
