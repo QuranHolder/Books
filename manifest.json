@@ -240,6 +240,18 @@
     "ayahCount": 6236
   },
   {
+    "id": "ibn-aashoor",
+    "name": "التحرير والتنوير - نسخة أحدث",
+    "author": "الطاهر بن عاشور",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 18,
+    "sizeKB": 77124,
+    "sizeFormatted": "75.3 MB",
+    "ayahCount": 6236
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
