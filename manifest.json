@@ -228,6 +228,18 @@
     "ayahCount": 2343
   },
   {
+    "id": "alrazi",
+    "name": "مفاتيح الغيب",
+    "author": "الفخر الرازي",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 18,
+    "sizeKB": 92861,
+    "sizeFormatted": "90.7 MB",
+    "ayahCount": 6236
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
