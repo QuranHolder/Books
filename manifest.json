@@ -252,6 +252,18 @@
     "ayahCount": 6236
   },
   {
+    "id": "katheer_new",
+    "name": "تفسير ابن كثير - نسخةأحدث",
+    "author": "الحافظ إسماعيل بن كثير",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 18,
+    "sizeKB": 87248,
+    "sizeFormatted": "85.2 MB",
+    "ayahCount": 6236
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
