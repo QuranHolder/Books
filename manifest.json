@@ -264,6 +264,18 @@
     "ayahCount": 6236
   },
   {
+    "id": "aysar",
+    "name": "أيسر التفاسير",
+    "author": "أبو بكر الجزائري",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 19,
+    "sizeKB": 33838,
+    "sizeFormatted": "33.0 MB",
+    "ayahCount": 6236
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
