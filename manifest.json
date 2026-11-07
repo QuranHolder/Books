@@ -276,6 +276,18 @@
     "ayahCount": 6236
   },
   {
+    "id": "qotb",
+    "name": "في ظلال القرآن",
+    "author": "سيد قطب",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 20,
+    "sizeKB": 15363,
+    "sizeFormatted": "15.0 MB",
+    "ayahCount": 6193
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
