@@ -288,6 +288,18 @@
     "ayahCount": 6193
   },
   {
+    "id": "montakhab",
+    "name": "المنتخب في تفسير القرآن الكريم",
+    "author": "لجنة علماء الأزهر - المجلس الأعلى للشؤون الإسلامية",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 2152,
+    "sizeFormatted": "2.1 MB",
+    "ayahCount": 6233
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
