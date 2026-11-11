@@ -324,6 +324,42 @@
     "ayahCount": 6147
   },
   {
+    "id": "mobdii",
+    "name": "الجامع التاريخي لبيان القرآن الكريم",
+    "author": "مركز مبدع",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 90643,
+    "sizeFormatted": "88.5 MB",
+    "ayahCount": 6235
+  },
+  {
+    "id": "wahidy",
+    "name": "الوجيز في تفسير الكتاب العزيز",
+    "author": "الواحدي",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 1749,
+    "sizeFormatted": "1.7 MB",
+    "ayahCount": 5238
+  },
+  {
+    "id": "makky",
+    "name": "الهداية إلى بلوغ النهاية",
+    "author": "مكي بن أبي طالب",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 10387,
+    "sizeFormatted": "10.1 MB",
+    "ayahCount": 6105
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
