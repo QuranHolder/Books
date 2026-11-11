@@ -360,6 +360,30 @@
     "ayahCount": 6105
   },
   {
+    "id": "seoty",
+    "name": "الدر المنثور في التفسير بالمأثور",
+    "author": "السيوطي",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 16449,
+    "sizeFormatted": "16.1 MB",
+    "ayahCount": 4515
+  },
+  {
+    "id": "alez",
+    "name": "تفسير العز بن عبد السلام",
+    "author": "العز بن عبد السلام",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 1787,
+    "sizeFormatted": "1.7 MB",
+    "ayahCount": 3711
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
