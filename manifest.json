@@ -300,6 +300,30 @@
     "ayahCount": 6233
   },
   {
+    "id": "zamakhshary",
+    "name": "الكشاف",
+    "author": "الزمخشري",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 7396,
+    "sizeFormatted": "7.2 MB",
+    "ayahCount": 5783
+  },
+  {
+    "id": "baidawy",
+    "name": "أنوار التنزيل وأسرار التأويل",
+    "author": "البيضاوي",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 4852,
+    "sizeFormatted": "4.7 MB",
+    "ayahCount": 6147
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
