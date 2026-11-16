@@ -384,6 +384,18 @@
     "ayahCount": 3711
   },
   {
+    "id": "shaarawi",
+    "name": "تفسير الشيخ الشعراوي",
+    "author": "محمد متولي الشعراوي",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 26079,
+    "sizeFormatted": "25.5 MB",
+    "ayahCount": 3596
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
