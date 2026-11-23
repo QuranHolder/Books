@@ -396,6 +396,18 @@
     "ayahCount": 3596
   },
   {
+    "id": "jezzy",
+    "name": "التسهيل لعلوم التنزيل - نسخة أحدث",
+    "author": "محمد بن أحمد بن جزي الكلبي أبو القاسم",
+    "category": "tafsir",
+    "isBundled": false,
+    "defaultActive": false,
+    "priority": 21,
+    "sizeKB": 4366,
+    "sizeFormatted": "4.3 MB",
+    "ayahCount": 5094
+  },
+  {
     "id": "e3rab",
     "name": "إعراب القرآن الكريم",
     "author": "أحمد عبيد الدعاس",
